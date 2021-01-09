@@ -1,0 +1,6 @@
+name: LHLib
+version: @version@
+main: cn.leomc.lhlib.LHLibPlugin
+api-version: 1.16
+authors: [ LeoMC ]
+description: A common library for all my plugins
