@@ -8,7 +8,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.HashMap;
 
-class LHLogger {
+public class LHLogger {
 
     private LHLib parent;
 
